@@ -1,0 +1,4 @@
+co\edu\escuelaing\interactiveblackboard\BBAppStarter.class
+co\edu\escuelaing\interactiveblackboard\configurator\BBConfigurator.class
+co\edu\escuelaing\interactiveblackboard\endpoints\BBEndpoint.class
+co\edu\escuelaing\interactiveblackboard\controllers\DrawingServiceController.class
